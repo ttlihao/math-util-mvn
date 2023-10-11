@@ -7,7 +7,7 @@
 * ...
 
 ### Screen Shot
-![https://github.com/ttlihao/math-util-mvn/blob/main/screenshot/Screenshot%202023-10-11%20162701.png]()
+![screenshot/Screenshot 2023-10-11 162701.png]()
 
 ### Connect me via thienphan20122003@gmail.com
 ### Copyright &#169; 2023 PhanThien
